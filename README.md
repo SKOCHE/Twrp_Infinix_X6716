@@ -1,4 +1,4 @@
-# Android device tree for Infinix Infinix X6515 (Infinix-X6515)
+# Android device tree for Infinix Infinix X6716 (Infinix-X6716)
 
 ```
 #
